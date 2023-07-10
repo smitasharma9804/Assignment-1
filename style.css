@@ -120,3 +120,31 @@
     margin-left: 100px;
 
 }
+
+/* wants section style*/
+.wants-section {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.wants-section-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(169, 169, 169, 0.24);
+    width: 67%;
+    padding: 50px;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+.wants-section-div-1,
+.wants-section-div-2,
+.wants-section-div-3 {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: sans-serif;
+
+}
