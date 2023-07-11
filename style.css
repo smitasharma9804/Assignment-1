@@ -161,6 +161,7 @@
 
 .section-1-div {
     width: 50%;
+    margin-top: 50px;
 
 }
 
@@ -198,4 +199,39 @@
 
 .section-1-img-div img {
     height: 280px;
+}
+
+/* Section 2 style  */
+.section-2 {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.section-2-div-heading {
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.section-2-div-paragraph {
+    width: 480px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(133, 123, 123);
+    margin-left: 450px;
+    margin-bottom: 40px;
+}
+
+
+.section-2-img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-2-img-div img {
+    height: 280px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 5px;
 }
