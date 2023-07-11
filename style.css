@@ -236,6 +236,8 @@
     border-radius: 5px;
 }
 
+/* Section 3 style */
+
 .section-3 {
     margin-top: 80px;
 }
@@ -292,4 +294,41 @@
     color: white;
     border: none;
     border-radius: 5px;
+}
+
+
+/* Footer section-style */
+
+.footer-div {
+    height: 310px;
+    background-color: black;
+    text-align: center;
+    margin-top: -120px;
+
+}
+
+.footer-heading {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-top: 70px
+}
+
+.footer-heading span {
+    color: #e40973a8;
+}
+
+.footer-paragraph-1 {
+    font-size: 15px;
+    color: rgba(133, 123, 123, 0.938);
+    padding-top: 40px;
+    width: 400px;
+    margin-left: 480px;
+
+}
+
+.footer-paragraph-2 {
+    font-size: 12px;
+    color: rgba(133, 123, 123, 0.486);
+    padding-top: 50px;
 }
