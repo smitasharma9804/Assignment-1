@@ -115,7 +115,7 @@
 
 .bonus-section-img-div h3 {
     border-bottom: 2px solid black;
-    margin-top: 10px;
+    margin-top: 20px;
     width: 140px;
     margin-left: 100px;
 
@@ -124,7 +124,7 @@
 /* wants section style*/
 .wants-section {
     margin-top: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 140px;
 }
 
 .wants-section-div {
@@ -146,5 +146,56 @@
     margin-left: 50px;
     margin-right: 50px;
     font-family: sans-serif;
+    color: rgb(83, 80, 80);
 
+}
+
+/* Section 1 style */
+.section-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a721620c;
+    height: 410px;
+}
+
+.section-1-div {
+    width: 50%;
+
+}
+
+.section-1-div-heading {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.section-1-div-heading span {
+    color: #f1157fb6;
+}
+
+.section-1-div-paragraph {
+    width: 500px;
+    text-align: center;
+    margin-left: -40px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: rgb(133, 123, 123);
+}
+
+.section-1-div-button {
+    height: 43px;
+    width: 130px;
+    padding: 10px;
+    background-color: rgba(238, 28, 73, 0.712);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+/* .section-1-img-div {} */
+
+.section-1-img-div img {
+    height: 280px;
 }
